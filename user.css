@@ -1,11 +1,11 @@
 :root {
-    --bg1: url("https://wallpapersite.com/images/pages/pic_w/14537.jpg");
-    --bg2: url("https://i.pinimg.com/originals/da/ec/8d/daec8d755fe71408084e214a7b17460f.jpg");
-    --bg3: url("https://wallpapershome.com/images/pages/pic_hs/5321.jpg");
+    --bg1: url("https://wallpapercave.com/wp/wp5457716.png");
+    --bg2: url("https://wallpapercave.com/wp/wp5457716.png");
+    --bg3: url("https://wallpapercave.com/wp/wp5457716.png");
     --bg: var(--bg2);
-    --bgcolor: #0000000D;
-    --accent-color: #006ad7;
-    --accent-gradient: linear-gradient(to right, #00a63F 0%, #006ad7 100%);
+    --bgcolor: #000000;
+    --accent-color: ##ffffff;
+    --accent-gradient: linear-gradient(to right, #000000 0%, #ffb1b17 100%);
     --accent: var(--accent-gradient);
     --overlay: rgba(0, 0, 0, 0.1);
     --wallblur: 15px;
